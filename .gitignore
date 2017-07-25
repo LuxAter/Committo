@@ -1,4 +1,6 @@
 *.o
 *.d
 *.log
-UNNAMED_PROGRAM
+build/*
+pessum
+pessum-test

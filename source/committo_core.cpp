@@ -1,5 +1,5 @@
 #include <curl/curl.h>
-#include <pessum.h>
+#include <pessum/pessum.hpp>
 #include "committo_core.hpp"
 
 namespace committo {
